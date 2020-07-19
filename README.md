@@ -20,6 +20,7 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 The Chicago and New York City files also have the following two columns:
 
 1.Gender
+
 2.Birth Year
 
 ### Statistics Computed
